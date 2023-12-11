@@ -3,7 +3,7 @@
 <h2>👨‍💻  Graphic Designer :</h2>
 
 - <b>(Creating Personalized CVs)</b>
-  - [My CV ](https://github.com/EricCCT/creating-personalized-CVs/blob/main/CV%20-%20Eric%20Mabe%20.pdf) <b><i>(Eric Mabe)</b></i>
+  - [My CV ](https://github.com/EricCCT/creating-personalized-CVs/blob/main/CV%20-%20Eric%20Mabe%20.pdf) <b><i>(Example)</b></i>
 - <b>(Flyer Templates)</b>
   -[Restaurant's Temple](https://github.com/EricCCT/Flyer-Templates/blob/main/Arte%20Flyer%20-%20Okonomi%20ya.pdf) <b><i>(Art Restaurant Okonomi-ya)</b></i>
 - <b>Jobs Designer </b>
